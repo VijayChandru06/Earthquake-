@@ -1,5 +1,3 @@
-# Earthquake-
-Python code for Earthquake prediction
 .
 ├── ...
 ├── data                    
